@@ -32,4 +32,8 @@
 <p>Alternatively referred to as literal(s), a literal string is several characters enclosed in double or single quotes, depending on the programming language or command line. A program does not interpret characters in a literal string until it encounters the next double or single quote. </p>
 <p> Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.</p>
 <p>A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task.</p>
+<p>An operator in a programming language is a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.</p>
+<p>A logical operator is a symbol or word used to connect two or more expressions such that the value of the compound expression produced depends only on that of the original expressions and on the meaning of the operator. Common logical operators include AND, OR, and NOT.</p>
+<p>These operators are + (addition), - (subtraction), * (multiplication), / (division), and % (modulo).</p>
+
 <footer> &copy; Joshua Belz 2022 <footer>
